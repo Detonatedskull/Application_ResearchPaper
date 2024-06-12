@@ -1,5 +1,4 @@
-# STEP_ResearchPaper
-Research paper for STEP resume
+#Readme
 
 This repository consists of 4 main files that associate with the Research paper:
 1. ResearchPaper.pdf
